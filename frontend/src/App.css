@@ -1,0 +1,23 @@
+input{
+  width:20rem ;
+  height:3rem;
+  margin-top:1rem;
+  /* padding-left:2rem; */
+  margin-left: 9rem;
+  font-size:  1.2rem;
+}
+h1{
+  text-align: center;
+}
+form{
+  margin-left: 30rem;
+}
+button{
+  width:10rem;
+  height:3rem;
+  margin-top:1rem;
+  margin-left:14.5rem;
+  background-color: rgb(158, 154, 154);
+  color: rgb(255, 255, 255);
+  border-radius: 1rem;
+}
